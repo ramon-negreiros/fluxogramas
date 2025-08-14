@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Página-1" id="3QtFrNminv7boJr-y0DP">
+    <mxGraphModel dx="391" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y6l5cxqiQ-Mch1TFfQXQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y6l5cxqiQ-Mch1TFfQXQ-1" target="Y6l5cxqiQ-Mch1TFfQXQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6l5cxqiQ-Mch1TFfQXQ-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6l5cxqiQ-Mch1TFfQXQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y6l5cxqiQ-Mch1TFfQXQ-2" target="Y6l5cxqiQ-Mch1TFfQXQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6l5cxqiQ-Mch1TFfQXQ-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;SALDO INICIAL" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6l5cxqiQ-Mch1TFfQXQ-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6l5cxqiQ-Mch1TFfQXQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y6l5cxqiQ-Mch1TFfQXQ-2" target="Y6l5cxqiQ-Mch1TFfQXQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
